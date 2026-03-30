@@ -1,4 +1,4 @@
-# Muhammad Ahad Nawaz — Full-Stack Software Engineer | CTO of Binary Brains | Founder of REIVEX Technologies
+# Muhammad Ahad Nawaz — Full-Stack Software Engineer 
 
 ### Building Enterprise Software, AI Platforms, and Digital Products from Lahore, Pakistan
 
@@ -24,53 +24,6 @@
   "funFact": "Lemongrass tea is my perfect fuel for coding adventures!"
 }
 ```
-
----
-
-## What I Build
-
-I architect and ship production-grade platforms across multiple industries. Here's a selection of the 20+ projects I've delivered:
-
-### UPVC Cloud ERP — Enterprise Resource Planning for Manufacturing
-A comprehensive cloud-based ERP system built for the UPVC window and door manufacturing industry. Handles the full business lifecycle: inventory management with real-time stock tracking, production planning and scheduling, multi-warehouse operations, automated purchase orders, sales pipeline management, financial accounting with ledger integration, HR and payroll modules, and a customer portal for order tracking. Built with a microservices architecture, real-time WebSocket updates, and role-based access control across factory floor operators, managers, and executives. Currently expanding with AI-powered demand forecasting and WhatsApp business integration for customer communication.
-
-### PowerSell — Gamified Real Estate Platform (US Market)
-A gamified real estate platform designed for the American market. Features include a full deal pipeline (acquisition to closing), a competitive $10K 30-Day Challenge system, real-time leaderboards, multi-portal architecture (Closer, Admin, Setter, Main Platform), appointment booking, commission tracking, referral networks, a configurable spin wheel for rewards, and an influencer portal. Built with WebSocket connections for instant updates across all portals and a custom event routing layer. The gamification engine tracks every meaningful action and feeds into leaderboard scoring, challenge progress, achievement unlocks, and spin wheel eligibility. Shipped as MVP in 35 days with a team of 6 developers.
-
-### REIVEX Technologies — Digital Agency & SaaS Platform
-My own company providing end-to-end software solutions. REIVEX Technologies handles everything from custom software development to AI integration, serving clients across South Asia and the Middle East. The platform itself includes project management tools, client portals, automated invoicing, and a talent management system for our growing team of developers.
-
-### MedConnect Pro — Healthcare Management System
-A comprehensive healthcare platform connecting patients, doctors, and administrators. Features include electronic health records (EHR), appointment scheduling with automated reminders, telemedicine video consultations, prescription management, lab result integration, insurance claim processing, and a patient portal with health tracking dashboards. Built with HIPAA-compliant data handling and end-to-end encryption.
-
-### ShopFlow — Multi-Vendor E-Commerce Platform
-A scalable multi-vendor marketplace platform supporting thousands of concurrent users. Includes vendor onboarding workflows, product catalog management with variant support, real-time inventory synchronization, dynamic pricing engine, order management with split shipping, payment gateway integration (Stripe, PayPal, local providers), customer reviews and ratings, and an analytics dashboard for vendors. Built with event-driven architecture and Redis caching for high-performance product search.
-
-### EduSphere — Learning Management System (LMS)
-An adaptive learning platform for educational institutions and corporate training. Features AI-powered course recommendations, interactive content delivery (video, quizzes, assignments), progress tracking with learning analytics, virtual classroom with live streaming, automated grading and feedback, certificate generation, and parent/guardian portals for K-12 institutions. Supports multiple languages and accessibility standards.
-
-### FleetTrack — Fleet Management & Logistics Platform
-A real-time fleet management system for logistics companies. Includes GPS tracking with live map visualization, route optimization algorithms, fuel consumption monitoring, driver behavior analytics, maintenance scheduling with predictive alerts, delivery proof-of-delivery with photo capture, geofencing, and automated dispatch. Integrates with ELD (Electronic Logging Device) hardware for compliance.
-
-### FinLedger — Financial Management & Accounting Platform
-A cloud-based accounting and financial management system for SMEs. Features double-entry bookkeeping, multi-currency support, automated bank reconciliation, tax calculation and filing preparation, invoice generation with payment tracking, expense management with receipt OCR, financial reporting (P&L, balance sheet, cash flow), and budgeting/forecasting tools.
-
-### TaskForge — Project Management & Team Collaboration Tool
-An opinionated project management platform combining the best of Jira, Notion, and Linear. Features include kanban and sprint boards, time tracking with detailed reporting, resource allocation, Gantt charts, document collaboration with version control, automated workflows, Slack/Teams integration, and OKR tracking. Built with real-time collaboration using CRDTs for conflict-free editing.
-
-### Additional Projects
-
-- **PropAnalytics** — Real estate market analytics dashboard with predictive pricing models
-- **CloudKitchen** — Multi-brand cloud kitchen management platform with order aggregation
-- **HireWise** — AI-powered recruitment platform with resume parsing and candidate matching
-- **PayrollPro** — Payroll management system with tax compliance for multiple jurisdictions
-- **InventoryIQ** — Smart inventory management with demand forecasting and auto-reorder
-- **EventHub** — Event management platform with ticketing, check-in, and attendee analytics
-- **DocuFlow** — Document management system with OCR, version control, and e-signatures
-- **ChatAssist** — AI customer support chatbot platform with multi-channel integration
-- **SurveyLab** — Survey creation and analytics platform with sentiment analysis
-- **DataPipe** — ETL pipeline builder with visual workflow designer and scheduling
-
 ---
 
 ## Tech Stack
@@ -103,15 +56,6 @@ An opinionated project management platform combining the best of Jira, Notion, a
 - **Led engineering teams** of up to 15 developers on enterprise projects
 - **Open source contributor** with packages used by developers worldwide
 - **Speaker** at local tech meetups on enterprise architecture and AI integration
-
----
-
-## Writing & Articles
-
-- [Building Enterprise ERP Systems: A Deep Dive into UPVC Cloud Architecture](https://medium.com/@ahadnawaz585)
-- [I Built a Gamified Real Estate Platform for the US Market in 35 Days](https://medium.com/@ahadnawaz585/5027fbb62648)
-
-More articles coming on: AI in enterprise workflows, building SaaS for emerging markets, real-time system architecture, and scaling software teams.
 
 ---
 

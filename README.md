@@ -1,4 +1,4 @@
-# Muhammad Ahad Nawaz — Full-Stack Software Engineer 
+# Ahad Nawaz — Full-Stack Software Engineer 
 
 ### Building Enterprise Software, AI Platforms, and Digital Products from Lahore, Pakistan
 
